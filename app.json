@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "makeup-admin",
+    "description": "Data management",
+    "slug": "makeupAdminPanel",
+    "version": "1.0.0",
+    "githubUrl": "https://github.com/Danya-hub/makeup-admin",
+    "orientation": "portrait",
+    "icon": "./assets/images/logo.png",
+    "splash": {
+      "image": "./assets/images/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "locales": ["en", "ru", "uk"],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/logo.png",
+        "backgroundColor": "#ffffff"
+      }
+    }
+  }
+}
